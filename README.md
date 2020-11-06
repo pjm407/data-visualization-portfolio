@@ -12,3 +12,5 @@ This repository contains samples of the static information graphics that I have 
     - properties nyc : Staten Island Homes in Proximity to Buyouts
     - voronoi nyc covid : Covid-19 Positive Cases With Wifi Access in NYC, By Zipcode
     - voting milwaukee : 2020 Voting Sites in Milwaukee County
+
+## Grouped Barplots
