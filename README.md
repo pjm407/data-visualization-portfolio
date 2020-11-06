@@ -19,3 +19,5 @@ This repository contains samples of the static information graphics that I have 
     - confidence_to_pay_rent : Confidence of Renter to Pay Rent During Pandemic, By Race
     - homesale_count_nyc : Sales Count of Residential Homes in Staten Island, By Distance to Nearest Buyout
     - race_telework : Share of Teleworkers During Pandemic, By Race and Month
+
+## Line/Point Plots
